@@ -90,3 +90,4 @@ Declare arreglos para cada una de las transformaciones o compuertas cuánticas q
 
 <img src="img/2esferas.png" style="float: center">
 
+(La tranformación de la figura corresponde a la rotación con respecto al eje X: R_X(pi/4))
